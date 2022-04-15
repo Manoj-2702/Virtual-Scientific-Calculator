@@ -27,3 +27,31 @@ Calculators have a wide scope of applications, being useful in many fields like 
 
 Scientific calculators require a more advanced level of understanding from the user for their scientific functions. Calculators are ridiculously easy to obtain as they are available in hardware form in any supply store or supermarket, and also in software form in computers, smartphones, tablets, etc. . Highlighting features of our calculator are Simultaneous equation solver, Root finder , Volume finder, finding derivative and integral of a function, area finder and complex calculator for higher end of mathematical calculations.
 
+# Modules Imported
+1) OpenCV
+2) Numpy
+3) math
+4) cmath
+5) sympy
+6) Tkinter
+
+# Scientific Calculator:
+This interface works as a basic scientific calculator which contains trignometric functions,inverse trignometric functions,hyperbolic, logarithmic and many more alongside with basic arithmetic functions.
+
+# Simultaneous Equation Solver:
+This interface allows the user to solve the simultaneous equations having 2 or 3 degree variables.
+
+# Derivative and Integral Calculator:
+This interface allows the user to calculate the derivatives and integrals of a given expression in terms of x respectively.
+
+# Complex Calculator:
+This interface allows the user to apply trignometric ,inverse trignometric ,logarithmic and many more alongside with basic arthimetic operations on COMPLEX numbers.
+
+# Area Finder:
+This interface allows the user to Area of 2-D figures such as square, rectangle, circle and many more.
+
+# Volume Finder:
+This interface allows the user to Volume of 3-D figures such as cube, sphere, cylinder and many more.
+
+# Root Finder:
+This interface allows the user to calculate the roots of a given polynomial equations upto 4th degree i.e, it can find out roots for a quadratic, cubic and a quartic polynomial.
