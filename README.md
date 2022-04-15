@@ -1,8 +1,12 @@
 # Virtual-Calculator
 My project is mainly focused in providing the users a mathematical program which will help him to solve various mathematical operations required in his day to day life. 
+
 MY project along with scientific calculator consists of root finder, simultaneous equation solver, Complex calculator, Volume finder, Area finder, Derivative and integral calculator etc. This allows the student to solve various study related problems in an easier way. 
+
 In a world where, people are moving towards virtual reality, our virtual calculator program allows the user to calculate using hand gestures. 
+
 This project gave us an opportunity to research more on GUI applications and OpenCV module which enabled us to use the camera module and hand-detection module. 
+
 Finally, a scientific calculator is a necessity now for each and every student and hence we think this project will attract more number of students to use it
 
 # Why Virtual Calculator:
